@@ -1,0 +1,12 @@
+2
+Periodicity = 2.38 kHz
+Time.[ms] 1000
+Voltage [V]
+V3
+V1
+
+
+
+Phasespace: V3 against V1
+Voltage V3[V]
+Voltage V1[dV3/dt]

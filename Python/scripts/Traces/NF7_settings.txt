@@ -1,0 +1,11 @@
+3
+ft_DC_1V
+Time.[s] 1
+Voltage [V]
+V3
+V1
+f(t)
+
+Phasespace: V3 against V1
+Voltage V3[V]
+Voltage V1[dV3/dt]

@@ -1,0 +1,14 @@
+NF1
+W0 = 14616.30 rad/s	omega = 2326.26 Hz	mu = 0.01	E0 =0.022
+
+NF2
+W0 = 14616.3 rad/s	omega = 2326.26 Hz	mu = 0.0	E0 =0.02
+
+NF3
+W0 = 21679.48 rad/s	omega = 3450.4 Hz	mu = 0.01	E0 =0.1
+
+NF4
+W0 = 21679.48 rad/s	omega = 3450.4 Hz	mu = 0.0	E0 =0.1
+
+NF5
+
